@@ -1,0 +1,33 @@
+QMAKE_CXX.QT_COMPILER_STDCXX = 199711L
+QMAKE_CXX.QMAKE_MSC_VER = 1930
+QMAKE_CXX.QMAKE_MSC_FULL_VER = 193030706
+QMAKE_CXX.COMPILER_MACROS = \
+    QT_COMPILER_STDCXX \
+    QMAKE_MSC_VER \
+    QMAKE_MSC_FULL_VER
+QMAKE_CXX.INCDIRS = \
+    E:\\QXlsx-master\\QXlsx\\header \
+    E:\\project\\塞拉门\\usb-1000.dll_v2.0.0.4\\2.0.0.4 \
+    D:\\Qt\\Qt5.12.12\\5.12.12\\msvc2017\\include\\QtCharts \
+    D:\\Qt\\Qt5.12.12\\5.12.12\\msvc2017\\include \
+    "E:\\Program Files\\Microsoft Visual Studio\\2022\\Enterprise\\VC\\Tools\\MSVC\\14.30.30705\\include" \
+    "E:\\Program Files\\Microsoft Visual Studio\\2022\\Enterprise\\VC\\Tools\\MSVC\\14.30.30705\\atlmfc\\include" \
+    "E:\\Program Files\\Microsoft Visual Studio\\2022\\Enterprise\\VC\\Auxiliary\\VS\\include" \
+    "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt" \
+    "E:\\Program Files\\Microsoft Visual Studio\\2022\\Enterprise\\VC\\Auxiliary\\VS\\UnitTest\\include" \
+    "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\um" \
+    "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\shared" \
+    "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\winrt" \
+    "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\cppwinrt" \
+    "C:\\Program Files (x86)\\Windows Kits\\NETFXSDK\\4.8\\Include\\um"
+QMAKE_CXX.LIBDIRS = \
+    E:\\QXlsx-master\\QXlsx\\release \
+    E:\\project\\塞拉门\\usb-1000.dll_v2.0.0.4\\2.0.0.4\\x86 \
+    D:\\Qt\\Qt5.12.12\\5.12.12\\msvc2017\\lib \
+    "E:\\Program Files\\Microsoft Visual Studio\\2022\\Enterprise\\VC\\Tools\\MSVC\\14.30.30705\\lib\\x86" \
+    "E:\\Program Files\\Microsoft Visual Studio\\2022\\Enterprise\\VC\\Tools\\MSVC\\14.30.30705\\atlmfc\\lib\\x86" \
+    "E:\\Program Files\\Microsoft Visual Studio\\2022\\Enterprise\\VC\\Auxiliary\\VS\\lib\\x86" \
+    "C:\\Program Files (x86)\\Windows Kits\\10\\lib\\10.0.19041.0\\ucrt\\x86" \
+    "E:\\Program Files\\Microsoft Visual Studio\\2022\\Enterprise\\VC\\Auxiliary\\VS\\UnitTest\\lib" \
+    "C:\\Program Files (x86)\\Windows Kits\\10\\lib\\10.0.19041.0\\um\\x86" \
+    "C:\\Program Files (x86)\\Windows Kits\\NETFXSDK\\4.8\\lib\\um\\x86"
